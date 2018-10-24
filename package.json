@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "deep-extend": "~0.3.2",
+    "deep-extend": "~0.5.1",
     "docopt": "~0.4.0",
     "escodegen": "~1.6.1",
     "esformatter": "~0.7.2",
@@ -33,8 +33,8 @@
     "esformatter-var-each": "~1.0.0",
     "esprima": "~2.6.0",
     "falafel": "~1.2.0",
-    "glob": "~4.4.0",
-    "rc": "~0.6.0",
+    "glob": "~5.0.15",
+    "rc": "~1.2.7",
     "rocambole": "~0.5.0",
     "tmp": "~0.0.23",
     "underscore": "~1.8.0"
